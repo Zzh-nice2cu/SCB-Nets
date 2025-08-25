@@ -5,8 +5,6 @@ The official implementation of **"SCB-Nets: Straw Checkerboard Barriers Extracti
 
 ## 📄 Paper Status
 
-# SCB-NET
-
 Upon acceptance of this manuscript, the complete project code for the **SCB-NET** model — including implementations of the **HiSTE** and **GTSF** modules — will be made publicly available for academic research purposes.
 
 We sincerely thank the editors and reviewers for their valuable feedback and support.
